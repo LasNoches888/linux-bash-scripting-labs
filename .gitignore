@@ -1,0 +1,6 @@
+*.log
+!tests/data/*.log
+*.tar.gz
+backups/
+.DS_Store
+*.swp
